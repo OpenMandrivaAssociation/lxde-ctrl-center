@@ -4,7 +4,7 @@ Version:	0.1.0
 Release:	1
 Group:		System/Configuration/Other
 License:	GPLv3+
-Url:		http://code.google.com/p/lxde-ctrl-center/
+Url:		https://code.google.com/p/lxde-ctrl-center/
 Source0:	http://code.google.com/p/lxde-ctrl-center/files/%{name}-%{version}.tar.gz
 Source1:	clouds.png
 Source2:	bg.png
